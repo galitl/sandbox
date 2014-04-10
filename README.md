@@ -1,1 +1,1 @@
-Hi, this is a change!
+Deleting and changing the text
